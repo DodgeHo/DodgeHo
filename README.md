@@ -76,3 +76,5 @@ Reach me at **asdsay@gmail.com** or **lang.he.dodge@qq.com**
     <img align="center" src="./images/icons/Social/leet-code.svg" alt="dodgeho" height="30" width="40" />
   </a>-->
 </p>
+
+![](https://komarev.com/ghpvc/?username=DodgeHo&color=blue&style=for-the-badge&base=102)
