@@ -12,6 +12,17 @@
 - 💬 Know about my experiences via <a href="https://linkedin.com/in/lang-he-a94655120" target="blank"><img align="center" src="./images/icons/Social/linked-in-alt.svg" alt="lang-he-a94655120" height="18" width="18" /></a>
 - 🔭 Fun fact 1: I used to excel at studying **[Digital Signal Processing](https://github.com/search?q=owner%3ADodgeHo+digital-signal-processing&type=repositories).**
 - 📄 Fun fact 2: **I thought I was going to be a novelist, but I am not talented enough.**
+- 🔭 Fun fact 3: Academic API debugging log:
+    ```diff
+    + ✅PhD Offers Received in 2023:
+    +   • A? @ FinLand
+    +   • LiU @ Sweden
+    +   • Uni.lu @ Luxembourg
+    - Visa Endpoint Response:
+    -   {"status": 429, "error": "🚫RegionRateLimitExceeded"}
+    // I don't blame Europe or my homeland, I blame Donald Trump.
+    ```
+    
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left" >
@@ -36,6 +47,7 @@
     <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/> 
     <img src="./images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/> 
     <img src="./images/icons/BackendDevelopment/nodejs.svg" alt="node.js" width="40" height="40"/>
+    <img src="./images/icons/FrontendDevelopment/vuejs.svg" alt="vue" width="40" height="40"/>
     <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/>
     <img src="./images/icons/Devops/docker.svg" alt="docker" width="40" height="40"/>
     <img src="./images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/>
@@ -93,7 +105,6 @@
   </a>
 </p>
 
-
 <h3 align="left">📧 Connect with me:</h3>
 <p align="left" style="padding-left: 40px;">
   <a href="mailto:asdsay@gmail.com" style="display: inline-block;">
@@ -108,4 +119,3 @@
 </p>
 
 - Reach me at **asdsay@gmail.com** or **lang.he.dodge@qq.com**
-
