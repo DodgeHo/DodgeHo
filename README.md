@@ -20,7 +20,6 @@
     +   • Uni.lu @ Luxembourg
     - Visa Endpoint Response:
     -   {"status": 429, "error": "🚫RegionRateLimitExceeded"}
-    // I don't blame Europe or my homeland, I blame Donald Trump.
     ```
     
 
