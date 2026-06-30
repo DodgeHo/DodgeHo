@@ -59,14 +59,6 @@
   </p>
 
 <h3 align="left">📊 My activities on Github：</h3>
-<p style="padding-left: 40px;"> 
-  <img align="bottom" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dodgeho&show_icons=true&theme=merko&title_color=d97066&text_color=cef0ca&locale=en&layout=pie" 
-    alt="dodgeho" />
-  <img align="bottom" 
-    src="https://github-readme-stats.vercel.app/api?username=dodgeho&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&locale=en" 
-    alt="dodgeho" />
-</p>
 <picture style="padding-left: 30px;">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DodgeHo/DodgeHo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DodgeHo/DodgeHo/output/github-contribution-grid-snake.svg">
