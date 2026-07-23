@@ -1,4 +1,4 @@
-<h1 align="center">This is Dodge</h1>
+<h1 align="center">Hi, I'm Lang, you may also call me Dodge</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=I+am+not+sure+how+to+define+myself%2C+since+I+am+not+willing+to...;Blues+run+the+game%2C+but+I+keep+dodging+and+survived...)](https://git.io/typing-svg)
 
@@ -7,9 +7,12 @@
 
 <h3 align="left">👤 Who Am I?</h3>
 
-- 🌱 I’m currently learning **React & Node/Nest/Next/Nuxt**
-- ⚡ Ask me about **C++, React or Next.js**
-- 💬 Know about my experiences via <a href="https://linkedin.com/in/lang-he-a94655120" target="blank"><img align="center" src="./images/icons/Social/linked-in-alt.svg" alt="lang-he-a94655120" height="18" width="18" /></a>
+- 💻 Full-stack software engineer working with **TypeScript, React, Node.js/NestJS, and PostgreSQL**
+- ☁️ **AWS Certified Solutions Architect - Associate**, interested in backend, cloud, and remote product engineering
+- 🧰 I build web products, visual editing tools, Python utilities, and open-source localization software
+- ⚙️ Previously worked on a large commercial **C++/Qt 3D engineering codebase**
+- 💬 Find my professional experience on <a href="https://linkedin.com/in/lang-he-a94655120" target="blank"><img align="center" src="./images/icons/Social/linked-in-alt.svg" alt="Lang He on LinkedIn" height="18" width="18" /></a>
+- 📡 My engineering roots are in **[digital signal processing](https://github.com/search?q=owner%3ADodgeHo+digital-signal-processing&type=repositories)**, which still shapes how I approach difficult technical problems
 - 🔭 Fun fact 1: I used to excel at studying **[Digital Signal Processing](https://github.com/search?q=owner%3ADodgeHo+digital-signal-processing&type=repositories).**
 - 📄 Fun fact 2: **I thought I was going to be a novelist, but I am not talented enough.**
 - 🔭 Fun fact 3: Academic API debugging log:
@@ -24,41 +27,46 @@
     
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left" >
 
-- 🚀 **Familiar with:**
-  <!-- list1 -->
-  <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/>
-  <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/> 
-  <img src="./images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="./images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> 
-  <img src="./images/icons/Software/matlab.svg" alt="matlab" width="40" height="40"/> 
-  <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/> 
-  <img src="./images/icons/FrontendDevelopment/reactjs.svg" alt="react" width="40" height="40"/> 
-  <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/> 
-  <img src="./images/icons/Other/ubuntu.svg" alt="ubuntu" width="40" height="40"/> 
-  <img src="./images/icons/Devops/bash.svg" alt="bash" width="40" height="40"/> 
-  <img src="./images/icons/Other/git.svg" alt="git" width="40" height="40"/>
+**Product stack**
 
-- 💻 **Also have hands-on experience with:**
-    <!-- list2 -->
-    <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/>
-    <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/> 
-    <img src="./images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/> 
-    <img src="./images/icons/BackendDevelopment/nodejs.svg" alt="node.js" width="40" height="40"/>
-    <img src="./images/icons/FrontendDevelopment/vuejs.svg" alt="vue" width="40" height="40"/>
-    <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/>
-    <img src="./images/icons/Devops/docker.svg" alt="docker" width="40" height="40"/>
-    <img src="./images/icons/Database/postgresql.svg" alt="postgresql" width="40" height="40"/>
-    <img src="./images/icons/Database/redis.svg" alt="redis" width="40" height="40"/>
-    <img src="./images/icons/Social/three-dots.svg" alt="no" width="10" height="40"/>
-    <img src="./images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/>
-    <img src="./images/icons/FrontendDevelopment/tailwind.svg" alt="tailwind" width="40" height="40"/>
-    <img src="./images/icons/Software/illustrator.svg" alt="illustrator" width="40" height="40"/>
-    <img src="./images/icons/Software/photoshop.svg" alt="photoshop" width="40" height="40"/>
-  </p>
+<p align="left">
+  <img src="./images/icons/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" width="44" height="44" />
+  <img src="./images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44" />
+  <img src="./images/icons/FrontendDevelopment/reactjs.svg" alt="React" title="React" width="44" height="44" />
+  <img src="./images/icons/StaticSiteGenerators/nextjs.svg" alt="Next.js" title="Next.js" width="44" height="44" />
+  <img src="./images/icons/FrontendDevelopment/vuejs.svg" alt="Vue.js" title="Vue.js" width="44" height="44" />
+  <img src="./images/icons/BackendDevelopment/nodejs.svg" alt="Node.js" title="Node.js" width="44" height="44" />
+  <img src="./images/icons/BackendDevelopment/nestjs.svg" alt="NestJS" title="NestJS" width="44" height="44" />
+  <img src="./images/icons/Database/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />
+  <img src="./images/icons/Database/mysql.svg" alt="MySQL" title="MySQL" width="44" height="44" />
+  <img src="./images/icons/Database/drizzle.svg" alt="Drizzle ORM" title="Drizzle ORM" width="44" height="44" />
+  <img src="./images/icons/FrontendDevelopment/konva.svg" alt="Konva.js" title="Konva.js" width="44" height="44" />
+</p>
 
-<h3 align="left">📊 My activities on Github：</h3>
+**Cloud and delivery**
+
+<p align="left">
+  <img src="./images/icons/Devops/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" width="44" height="44" />
+  <img src="./images/icons/Devops/docker.svg" alt="Docker" title="Docker" width="44" height="44" />
+  <img src="./images/icons/Devops/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
+  <img src="./images/icons/Other/linux.svg" alt="Linux" title="Linux" width="44" height="44" />
+  <img src="./images/icons/Devops/bash.svg" alt="Bash" title="Bash" width="44" height="44" />
+  <img src="./images/icons/BackendDevelopment/nginx.svg" alt="Nginx" title="Nginx" width="44" height="44" />
+  <img src="./images/icons/Other/git.svg" alt="Git" title="Git" width="44" height="44" />
+</p>
+
+**Additional engineering background**
+
+<p align="left">
+  <img src="./images/icons/ProgrammingLanguages/cpp.svg" alt="C++" title="C++" width="44" height="44" />
+  <img src="./images/icons/ProgrammingLanguages/python.svg" alt="Python" title="Python" width="44" height="44" />
+  <img src="./images/icons/FrontendDevelopment/qt.svg" alt="Qt" title="Qt" width="44" height="44" />
+  <img src="./images/icons/Framework/electron.svg" alt="Electron" title="Electron" width="44" height="44" />
+  <img src="./images/icons/Software/matlab.svg" alt="MATLAB" title="MATLAB" width="44" height="44" />
+</p>
+
+<h3 align="left">📊 GitHub Activity</h3>
 <picture style="padding-left: 30px;">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DodgeHo/DodgeHo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DodgeHo/DodgeHo/output/github-contribution-grid-snake.svg">
@@ -81,8 +89,8 @@
   <a href="https://github.com/DodgeHo/VMD_2D_python">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DodgeHo&repo=VMD_2D_python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VMD_2D_python">
   </a>
-  <a href="https://github.com/DodgeHo/MATLAB_Tutorials_and_Exercise">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DodgeHo&repo=MATLAB_Tutorials_and_Exercise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MATLAB_Tutorials_and_Exercise">
+  <a href="[https://github.com/DodgeHo/MATLAB_Tutorials_and_Exercise](https://github.com/DodgeHo/PAL4_EnglishMod)">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DodgeHo&repo=PAL4_EnglishMod&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PAL4_EnglishMod">
   </a>
   <a href="https://github.com/DodgeHo/ASOfront">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DodgeHo&repo=ASOfront&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ASOfront">
