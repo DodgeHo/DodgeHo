@@ -10,7 +10,9 @@
 - 💻 Full-stack software engineer working with **TypeScript, React, Node.js/NestJS, and PostgreSQL**
 - ☁️ **AWS Certified Solutions Architect - Associate**, interested in backend, cloud, and remote product engineering
 - 🧰 I build web products, visual editing tools, Python utilities, and open-source localization software
-- ⚙️ Previously worked on a large commercial **C++/Qt 3D engineering codebase**
+- ⚙️ Once worked on a large commercial **C++/Qt 3D engineering codebase**
+- 🧭 Recently I have been building and polishing **[Career Radar](https://anlan.store/jobs)**, an invite-only job radar and inbox, and **[PulseBoard](https://anlan.store/demo/)**, a monitoring and background-job demo
+- 🤖 My recent experiments live somewhere between **AI agents**, **job search**, and product engineering: **OpenAI-compatible API**, **Hono**, **Redis**, **BullMQ**, **Prisma**, and **Docker Compose**. Some are deployed, some are still being carefully convinced to behave
 - 💬 Find my professional experience on <a href="https://linkedin.com/in/lang-he-a94655120" target="blank"><img align="center" src="./images/icons/Social/linked-in-alt.svg" alt="Lang He on LinkedIn" height="18" width="18" /></a>
 - 📡 My engineering roots are in **[digital signal processing](https://github.com/search?q=owner%3ADodgeHo+digital-signal-processing&type=repositories)**, which still shapes how I approach difficult technical problems
 - 🔭 Fun fact 1: I used to excel at studying **[Digital Signal Processing](https://github.com/search?q=owner%3ADodgeHo+digital-signal-processing&type=repositories).**
