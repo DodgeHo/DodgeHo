@@ -5,7 +5,9 @@
 <!-- visitors amount -->
 <img align="right" alt="Visitors" title="Visitors" src="https://komarev.com/ghpvc/?username=DodgeHo&color=F85D7F&style=for-the-badge&base=102"/>
 
-<h3 align="left">👤 Who Am I?</h3>  - you can simple click on **[my Page](https://anlan.store/)** to glance all of my projects.
+<h3 align="left">👤 Who Am I?</h3>  
+
+- you can simple click on **[my Page](https://anlan.store/)** to glance all of my projects.
 
 - 💻 Full-stack software engineer working with **TypeScript, React, Node.js/NestJS, and PostgreSQL**
 - ☁️ **AWS Certified Solutions Architect - Associate**, interested in backend, cloud, and remote product engineering
